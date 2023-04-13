@@ -9,7 +9,10 @@ body{
   min-height: 100vh;
   line-height: 1.5;
   background:hsl(217, 54%, 11%);
-  font-family: 'Red Hat Display', sans-serif;
+  font-family: 'Epilogue', sans-serif;
+  font-family: 'Hanken Grotesk', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Outfit', sans-serif;
 }
 
 .card{
