@@ -28,5 +28,5 @@ const helloFunc = () => {
 ```
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/haryordev00123)
-- Twitter - [@yourusername](https://www.twitter.com/haryordev)
+- Frontend Mentor - [@haryordev00123](https://www.frontendmentor.io/profile/haryordev00123)
+- Twitter - [@haryordev](https://www.twitter.com/haryordev)
