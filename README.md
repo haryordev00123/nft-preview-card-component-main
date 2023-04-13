@@ -1,33 +1,13 @@
-# Frontend Mentor - Product preview card component solution
-
-## Overview
-
-Users are able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
-
-### Screenshots
-
-#### Mobile version 
-![](images/Screenshot_mobile.png)
-
-
-#### Desktop version 
-![](images/Screenshot_desktop.png)
+# nft-preview-card-component-main
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - Mobile-first workflow
 
 ### What I learned
@@ -48,6 +28,5 @@ const helloFunc = () => {
 ```
 
 ## Author
-- Gmail - [@Haryordev](haryordev00123@gmail.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/haryordev00123)
+- Twitter - [@yourusername](https://www.twitter.com/haryordev)
